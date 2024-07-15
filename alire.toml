@@ -21,3 +21,5 @@ development.style_checks = ["-gnaty"]
 development.contracts = "Yes"
 "*".ada_version = "Ada2022"
 
+[[depends-on]]
+enet = "^1.0.0"
